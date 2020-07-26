@@ -13,7 +13,7 @@ const Projects = ({ projects, showLink, title, showGithub }) => {
       </div>
       {showLink && (
         <a href="/projects" className="btn center-btn">
-          See All Projects
+          All Projects
         </a>
       )}
     </section>
