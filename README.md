@@ -2,8 +2,11 @@
 
 <div align="center">
 <p>
-    Hong Phuc's portfolio website available at hongphucvu.com
-    This project is built with Gatsby and hosted on Netlify
+    Hong Phuc's portfolio website available at 
+    <a href="https://www.hongphucvu.com" target="_blank">hongphucvu.com</a>
+</p>
+<p>
+This project is built with Gatsby and hosted on Netlify
 </p>
 <br/>
 <p align="center">
