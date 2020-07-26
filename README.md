@@ -1,7 +1,19 @@
-# Hong Phuc Portfolio
+# Hong Phuc's Portfolio
 
-Hong Phuc's portfolio website available at hongphucvu.com
-This project is built with Gatsby and hosted on Netlify
+<div align="center">
+<p>
+    Hong Phuc's portfolio website available at hongphucvu.com
+    This project is built with Gatsby and hosted on Netlify
+</p>
+<br/>
+<p align="center">
+  <a href="https://app.netlify.com/sites/testing-build-phuc/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/8be92b51-d990-4801-ac27-079df88c6db1/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
+</div>
+
+![Landing Page](https://github.com/hongphuc95/portfolio/blob/master/static/twitter-img.png)
 
 ## 🛠Installation
 
