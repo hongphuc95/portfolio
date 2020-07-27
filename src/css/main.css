@@ -355,22 +355,22 @@ Sidebar Animation
   animation: slideRight 0.5s ease-in-out 0.3s forwards;
 }
 .sidebar-links li:nth-of-type(1) {
-  animation-delay: 0.25s;
+  animation-delay: 0.07s;
 }
 .sidebar-links li:nth-of-type(2) {
-  animation-delay: 0.5s;
+  animation-delay: 0.14s;
 }
 .sidebar-links li:nth-of-type(3) {
-  animation-delay: 0.75s;
+  animation-delay: 0.21s;
 }
 .sidebar-links li:nth-of-type(4) {
-  animation-delay: 1s;
+  animation-delay: 0.28s;
 }
 .sidebar-links li:nth-of-type(5) {
-  animation-delay: 1.25s;
+  animation-delay: 0.35s;
 }
 .sidebar-links li:nth-of-type(6) {
-  animation-delay: 1.5s;
+  animation-delay: 0.42s;
 }
 @keyframes slideRight {
   0% {
@@ -387,19 +387,19 @@ Sidebar Animation
   animation: slideUp 0.5s ease-in-out 0.3s forwards;
 }
 .sidebar-icons li:nth-of-type(1) {
-  animation-delay: 0.25s;
+  animation-delay: 0.1s;
 }
 .sidebar-icons li:nth-of-type(2) {
-  animation-delay: 0.5s;
+  animation-delay: 0.2s;
 }
 .sidebar-icons li:nth-of-type(3) {
-  animation-delay: 0.75s;
+  animation-delay: 0.3s;
 }
 .sidebar-icons li:nth-of-type(4) {
-  animation-delay: 1s;
+  animation-delay: 0.4;
 }
 .sidebar-icons li:nth-of-type(5) {
-  animation-delay: 1.25s;
+  animation-delay: 0.5s;
 }
 @keyframes slideUp {
   0% {
