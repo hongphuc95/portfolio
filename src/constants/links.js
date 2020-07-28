@@ -44,7 +44,7 @@ export default ({ styleClass }) => {
     <ul className={`page-links ${styleClass ? styleClass : ""}`}>
       {tempLinks}
       <li>
-        <a href="/CV_FR.pdf" target="_blank" className="btn">
+        <a href="/CV_EN.pdf" target="_blank" className="btn">
           Resume
         </a>
       </li>
