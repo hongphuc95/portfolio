@@ -13,7 +13,7 @@ const Hero = () => {
             <h2>I solve puzzles in the data.</h2>
             <div className="hero-desc">
               <h4>
-                I'm a data scientist based in Paris, France, specializing in
+                I'm a data scientist and DevOps engineer based in Paris, France, specializing in
                 information systems, cloud computing, and business intelligence.
               </h4>
             </div>
