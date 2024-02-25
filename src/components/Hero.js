@@ -10,11 +10,12 @@ const Hero = () => {
             {/*<div className="underline"></div>*/}
             <h3 style={{ color: "orange" }}>Hi, I am</h3>
             <h1>Hong Phuc</h1>
-            <h2>I solve puzzles in the data.</h2>
+            <h2>I sculpt the clouds to shape the future of tech.</h2>
             <div className="hero-desc">
               <h4>
-                I'm a data scientist and DevOps engineer based in Paris, France, specializing in
-                information systems, cloud computing, and business intelligence.
+                I'm a Cloud and DevOps engineer based in Paris, France, specializing in
+                cloud solutions across AWS and Azure platforms with a strong focus in
+                Kubernetes for robust cloud.
               </h4>
             </div>
 

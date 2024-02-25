@@ -15,7 +15,6 @@ This project is built with Gatsby and hosted on Netlify
   </a>
 </p>
 </div>
-
 ![Landing Page](https://github.com/hongphuc95/portfolio/blob/master/static/twitter-img.png)
 
 ## 🛠Installation
